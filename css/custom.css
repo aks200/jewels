@@ -1,0 +1,170 @@
+body
+{
+    background-color:#C9C9BD;
+}
+
+.row
+{
+    margin-top:5px;
+    margin-bottom:10px;
+}
+
+.col-md-4
+{
+    margin-bottom:30px;
+}
+
+.inner{
+    margin:0 auto;
+    width:100%;
+    min-height:300px;
+    position:relative;
+}
+
+.forimage
+{
+    background-color:#EEEBE4;
+    width:100%;
+    min-height:500px;
+    display:table;
+}
+
+.img11
+{
+    display:table-cell;
+    vertical-align: middle;
+}
+#img11
+{
+    height:350px;
+    width:100%;     
+}
+
+.cap
+{
+    padding-top:20px;
+    height:150px;
+    width:100%;
+    text-align:center;
+    color:Black;
+    background-color: whitesmoke;
+    font-family:NanumBarunGothic;
+    font-size:18px;
+
+}
+
+label{
+    font-family:'Franklin Gothic Medium';
+    font-weight: lighter;
+}
+
+label:hover{
+    color: #EDAD1B;
+}
+
+.btn
+{
+    background-color:snow;
+    color: #EDAD1B;
+    border-color:#EDAD1B;
+}
+.btn:hover{
+    background-color: #EDAD1B;
+    color:white;
+}
+
+p{
+    font-style:italic;
+}
+.butt{
+        position:absolute;
+        left:85%;
+}
+
+#nm
+{
+    position:absolute;
+        left:85%;
+}
+#ll
+{
+    margin-top:10px;
+    position:absolute;
+    left:60%;
+    background-color: #EEEBE4;
+}
+/*
+#cont
+{
+    margin-top:10px;
+    margin-bottom:0px;
+    height:630px;
+    width:1018px;
+}
+.row
+{
+    width:1025px;
+    margin-right:100px;
+    height:380px;
+}
+.col-md-4
+{
+    height:380px;
+}
+
+#secrow
+{
+    margin-top:9px;
+}
+
+#thumb
+{
+    width:317px;
+    height:380px;
+}
+#thumb img
+{   
+    width:200px;
+    height:250px;
+}
+
+#img11
+{
+    padding-right:60px;
+    margin-top:-84px;
+}
+.cap
+{
+    height:120px;
+    width:100%;
+    text-align:center;
+    color:Black;
+    font-family:NanumBarunGothic;
+    font-size:14px;
+
+}
+
+label h5:hover{
+    color: #EDAD1B;
+}
+
+.btn
+{
+    background-color:snow;
+    color: #EDAD1B;
+    border-color:#EDAD1B;
+}
+.btn:hover{
+    background-color: #EDAD1B;
+    color:white;
+}
+
+#butt {
+    border-color:#EDAD1B;
+    float:right;
+}
+
+.fa
+{
+    display:block;
+}*/
